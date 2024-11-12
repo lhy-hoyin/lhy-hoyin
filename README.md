@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 
 
 ### Hi there 👋
-I'm Ho Yin. I aspire to be a software developer! (Do look out for this as space I update this later :D)
+I'm Ho Yin from Singapore :singapore:. I aspire to be a software developer!
+
+(Do look out for this as space I update in the future :D)
+
+<!-- Pronouns: He/Him -->
